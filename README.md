@@ -4,14 +4,6 @@
      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&center=true&color=58A6FF&random=false&width=435&lines=Welcome+to+Justin's+repository;Stagnation+is+the+bane+to+innovation" alt="Typing SVG" />
     </a>
     <br><br>
-    <div>
-      <span>
-        <a>
-          <img src="https://img.shields.io/badge/Instagram-EA4335?style=plastic&logo=instagram&logoColor=white"/>
-        </a>
-      </span>
-    </div>
-    <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JK0201&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&langs_count=20&size_weight=0.5&count_weight=0.5&count_private=true" width=40.5% />
     </a>
