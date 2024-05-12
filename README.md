@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120078,10:9D0191,30:FD3A69,75:FF9B8E,100:FDC7FF&height=100&section=header&text=&fontSize=0" width="100%"/>
     <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=58A6FF&random=false&width=435&lines=Stagnation+is+the+bane+to+innovation" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&center=true&color=58A6FF&random=false&width=435&lines=Stagnation+is+the+bane+to+innovation" alt="Typing SVG" />
     </a>
     <br><br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
