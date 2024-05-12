@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005f73,10:0a9396,30:94d2bd,75:e9d8a6,100:ee9b00&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120078,10:9D0191,30:FD3A69,75:FF9B8E,100:FDC7FF&height=100&section=header&text=&fontSize=0" width="100%"/>
     <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=58A6FF&random=false&width=435&lines=Stagnation+is+the+bane+to+innovation" alt="Typing SVG" />
     </a>
