@@ -19,5 +19,5 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJK0201%2Fhit-counter&count_bg=%2358A6FF&title_bg=%2320232A&icon=github.svg&icon_color=%23EEEEEE&title=Github&edge_flat=false"/>  
   </a>
   <br><br><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,10:560bad,30:3a0ca3,75:7209b7,100:4361ee&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,10:302b63,30:24243e,75:334773,100:651fac&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
