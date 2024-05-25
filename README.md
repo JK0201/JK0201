@@ -5,10 +5,10 @@
     </a>
     <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JK0201&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=JK0201,Dino,Admin-Page,Landing-Page,Profile-Page,ShopJS,NodeJS-CRUD,NextJS-CRUD,Ink-Link" width=40% />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JK0201&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=JK0201,Dino,Admin-Page,Landing-Page,Profile-Page,ShopJS,NodeJS-CRUD,NextJS-CRUD,Ink-Link" width=37% />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=JK0201&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=54% />
+      <img src="https://github-readme-stats.vercel.app/api?username=JK0201&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=57% />
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=JK0201&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
