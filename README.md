@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=JK0201&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56.6% />
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JK0201&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=JK0201&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=65%/>
     </a>
   <br><br><br>
   <a href="https://hits.seeyoufarm.com">
