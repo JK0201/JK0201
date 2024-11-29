@@ -14,6 +14,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=JK0201&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
     </a>
   <br><br><br>
+  
   ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=supjk3)]
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJK0201%2Fhit-counter&count_bg=%2358A6FF&title_bg=%2320232A&icon=github.svg&icon_color=%23EEEEEE&title=Github&edge_flat=false"/>  
