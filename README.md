@@ -3,12 +3,22 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&center=true&color=58A6FF&random=false&width=435&lines=Welcome+to+Justin's+repository;Stagnation+is+the+bane+to+innovation" alt="Typing SVG" />
   </a>
-<br><br>
-  <img src="./profile/top-langs.svg" width="370" alt="Top Langs" />
-  <img src="./profile/stats.svg" width="560" alt="GitHub Stats" />
-  <br>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="./profile/top-langs.svg" alt="Top Langs" />
+      </td>
+      <td>
+        <img src="./profile/stats.svg" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JK0201&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JK0201&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="95%" alt="Activity Graph"/>
   </a>
 <br><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=supjk3" alt="Solved.ac Profile"/>
