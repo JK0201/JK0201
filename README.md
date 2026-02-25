@@ -5,8 +5,8 @@
   </a>
   <br>
   <samp>
-    Backend Developer focused on building LLM-powered applications.<br>
-    I dig into the "why" behind how things work, and I learn best by building.
+    Backend developer crafting LLM-powered services.<br/>
+    Obsessed with understanding how things actually work.
   </samp>
 <br><br>
   <!-- Tech Stack -->
