@@ -1,0 +1,38 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # 매일 오후 12시(KST) 자동 실행
+  workflow_dispatch:  # 수동 실행도 가능
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=JK0201&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=JK0201&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&langs_count=20&size_weight=0.5&count_weight=0.5&exclude_repo=JK0201,Dino,Admin-Page,Landing-Page,Profile-Page,ShopJS,NodeJS-CRUD,NextJS-CRUD,Ink-Link
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
