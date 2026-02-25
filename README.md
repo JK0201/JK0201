@@ -4,10 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&center=true&color=58A6FF&random=false&width=500&lines=Welcome+to+Justin's+repository;Backend+%26+AI+Engineer;Stagnation+is+the+bane+to+innovation" alt="Typing SVG" />
   </a>
   <br>
-  <!-- About Me -->
-  <samp>
-    SAP/RPA 기업에서 LLM 기반 Enterprise RAG 시스템을 설계하고 구축하는 백엔드 개발자입니다.
-  </samp>
+<samp>Backend Developer focused on building LLM-powered applications.</samp>
 <br><br>
   <!-- Tech Stack -->
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,nodejs,docker,linux,mysql,postgres,redis&theme=dark&perline=6" alt="Tech Stack" />
