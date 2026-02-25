@@ -3,9 +3,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&center=true&color=58A6FF&random=false&width=500&lines=Welcome+to+Justin's+repository;Backend+%26+AI+Engineer;Stagnation+is+the+bane+to+innovation" alt="Typing SVG" />
   </a>
+  <br>
+  <!-- About Me -->
+  <samp>
+    SAP/RPA 기업에서 LLM 기반 Enterprise RAG 시스템을 설계하고 구축하는 백엔드 개발자입니다.
+  </samp>
 <br><br>
   <!-- Tech Stack -->
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,nodejs,docker,linux,mysql,postgres,redis,elasticsearch,git&theme=dark&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,nodejs,docker,linux,mysql,postgres,redis&theme=dark&perline=6" alt="Tech Stack" />
   <br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
